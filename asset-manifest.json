@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Budget_Tracker/static/css/main.50e1bae2.css",
+    "main.js": "/Budget_Tracker/static/js/main.5aafb2de.js",
+    "static/media/cover.jpg": "/Budget_Tracker/static/media/cover.60c72031fd368d2fc3a9.jpg",
+    "index.html": "/Budget_Tracker/index.html",
+    "main.50e1bae2.css.map": "/Budget_Tracker/static/css/main.50e1bae2.css.map",
+    "main.5aafb2de.js.map": "/Budget_Tracker/static/js/main.5aafb2de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e1bae2.css",
+    "static/js/main.5aafb2de.js"
+  ]
+}
